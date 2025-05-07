@@ -1,6 +1,6 @@
-# Backroad Page
+# Backroads App
 
-A simple React-based web page called **Backroad**, built using JSX syntax. This page includes several structured components to showcase information about a fictional travel or tour-related service.
+A simple React-based web page called **Backroads**, built using JSX syntax. This page includes several structured components to showcase information about a fictional travel or tour-related service.
 
 ## 📦 Components
 
