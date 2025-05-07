@@ -19,8 +19,8 @@ To run this project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/backroad.git
-cd backroad
+https://github.com/shifat97/backroads-app.git
+cd backroads-app
 
 # Install dependencies
 npm install
